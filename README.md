@@ -41,6 +41,14 @@ By auditing 1990s Action movies, it was discovered that **7 movies** fell into t
 * **Market Positioning:** Use these duration benchmarks to market modern "retro" films as authentic 90s-style experiences.
 
 ---
+### 📊 Data Visualization: 1990s Cinematic Duration Trends
+---
+
+<p align="center">
+  <img src="images/netflix_chart.png" alt="Distribution of 1990s Movie Durations" width="100%">
+</p>
+
+*Histogram analysis of movie runtimes from 1990–1999, identifying a strategic "nostalgia peak" at approximately 100 minutes.*
 
 ## 🚀 Key Performance Metrics
 | Metric | Historical Value | Strategic Action |
