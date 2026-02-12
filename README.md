@@ -61,4 +61,5 @@ By auditing 1990s Action movies, it was discovered that **7 movies** fell into t
 
 ## 👩‍💻 Author
 **Olayinka Agbaje** | Data Scientist
-[LinkedIn](your-link) | [Email](mailto:olayinkaagbaje01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/olayinka-agbaje-188102224) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:olayinkaagbaje01@gmail.com)
